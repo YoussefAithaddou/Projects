@@ -26,8 +26,6 @@ The cleveland heart disease dataset includes 14 different physiological attribut
 
 Using the k-fold cross validation algorithm I chose the paramter k of the k_nearest algorithm as k=19. This yields the following results:
 
-![Classification Report]('')
 # Data Visualization
 I used Seaborn libraray to plot different pairwise attributes in the testing dataset, especially the age, chest pain type, resting blood pressure, serum cholestoral, maximum heart rate achieved and the oldpeak [Figure 2](https://github.com/YoussefAithaddou/Projects/blob/main/Data%20Visualization.png). ALso, I created an interactive plot to illustrate the relation between maximum heart rate achieved, resting blood pressure and the serum cholestoral in mg/dl [Figure 3](https://github.com/YoussefAithaddou/Projects/blob/main/Data%20Visualization%202.PNG).
 
-![Data visualization](https://github.com/YoussefAithaddou/Projects/blob/main/Data%20Visualization.png)
